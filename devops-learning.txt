@@ -1,3 +1,0 @@
-this is test file created for devops learning.
-
-this is edited file
