@@ -1,0 +1,12 @@
+  (nis-domain)
+                                         NIS
+Vserver       Domain              Active Server
+------------- ------------------- ------ ------------------------------------
+FX10          total               true   10.57.124.27, 10.57.124.28
+FX11          total               true   10.57.124.27, 10.57.124.28
+freppau-cdot1s1 total             true   10.57.124.27, 10.57.124.28
+freppau-cdot1s2 total             true   10.57.124.27, 10.57.124.28
+freppau-cdot1s3 total             true   10.57.124.27, 10.57.124.28
+freppau-cdot1s4 total             true   10.57.124.27, 10.57.124.28
+freppau-cdot1s5 total             true   10.57.124.27, 10.57.124.28
+7 entries were displayed.
