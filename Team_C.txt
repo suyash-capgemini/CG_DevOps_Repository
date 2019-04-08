@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello, we are learning DevOps and creating GroupC
+=======
+Hello, we are learning on devops
+>>>>>>> f9e619ff62061ed24393ab5da09efae39b2b1308
 
