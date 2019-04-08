@@ -1,2 +1,2 @@
-Hello, we are learning
+Hello, we are learning DevOps and creating GroupC
 
